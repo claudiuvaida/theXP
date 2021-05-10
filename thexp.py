@@ -9,7 +9,7 @@ i = 1
 
 while i <= int(number):
     driver=webdriver.Chrome(ChromeDriverManager().install())
-    driver.maximize_window()
+    driver.minimize_window()
     driver.get("https://www.dextools.io/app/pancakeswap/pair-explorer/" + contract)
     print("Application url is", driver.current_url)
     time.sleep(10)
