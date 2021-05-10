@@ -24,9 +24,9 @@ while i <= int(number):
     driver.minimize_window()
     driver2.minimize_window()
 
-    #Wait 15 seconds to bypass protection
+    #Wait 13 seconds to bypass protection
 
-    time.sleep(15)
+    time.sleep(13)
 
     #Quit/Close driver
     
