@@ -24,9 +24,9 @@ while i <= int(number):
     driver.minimize_window()
     driver2.minimize_window()
 
-    #Wait 15 seconds to bypa
+    #Wait 13 seconds to bypa
 
-    time.sleep(6)
+    time.sleep(13)
 
     #Quit/Close driver
     
