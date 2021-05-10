@@ -1,4 +1,4 @@
-# theXP
+# dextools refresher for any BSC contract
 
 Install:
 
@@ -8,7 +8,7 @@ Install:
 After installing the required tools, open the project folder from visual studio code and the open a new terminal from visual studio code in order to execute the following commands:
 
 ``
-pip install selenium
+pip install selenium \n
 pip install webdriver-manager
 ``
 
