@@ -9,5 +9,7 @@ After installing the required tools, open the project folder from visual studio 
 
 ``
 pip install selenium
+``
+``
 pip install webdriver-manager
 ``
